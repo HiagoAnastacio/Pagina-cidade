@@ -1,0 +1,26 @@
+.centro
+{
+    font-size: 30px;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+#moldura
+{
+    height: 360px;
+    width: 640px;
+    border: 2px solid rgb(0, 0, 0);
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.Estilo
+{
+    margin: 25px auto;
+    width: 25px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5)
+}
